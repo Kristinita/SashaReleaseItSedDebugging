@@ -1,0 +1,10 @@
+{
+    "buildCommand": "sed -i '\/Goddess\/iSasha' SedDebugging.txt",
+    "src": {
+        "tagName": "st3-%s"
+    },
+    "github": {
+        "release": true,
+        "tokenRef": "GITHUB_TOKEN"
+    }
+}
