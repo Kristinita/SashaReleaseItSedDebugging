@@ -1,2 +1,1 @@
-Sasha
-Goddess
+"install": "messages/install.txt"
